@@ -422,7 +422,7 @@
 			"names": {
 				"en-US": "Cow Hero DLC 2 - Bovine Champion"
 			},
-			"icon": "generic",
+			"icon": "cowherodlc2",
 			"type": "custom"
 		},
 		{
@@ -430,7 +430,7 @@
 			"names": {
 				"en-US": "Cow Hero DLC 3 - Cattle Guardian"
 			},
-			"icon": "generic",
+			"icon": "cowherodlc3",
 			"type": "custom"
 		},
 		{
@@ -447,6 +447,14 @@
 				"en-US": "Custom Songs Central"
 			},
 			"icon": "csc",
+			"type": "custom"
+		},
+		{
+			"ids": [ "dcr" ],
+			"names": {
+				"en-US": "Delta's Chart Repository"
+			},
+			"icon": "dcr",
 			"type": "custom"
 		},
 		{
@@ -638,7 +646,7 @@
 			"names": {
 				"en-US": "Guitar Praise: Expansion Pack 1"
 			},
-			"icon": "generic",
+			"icon": "praiseexpansion",
 			"type": "game"
 		},
 		{
@@ -647,6 +655,22 @@
 				"en-US": "Guitar Praise: Stryper"
 			},
 			"icon": "stryper",
+			"type": "game"
+		},
+		{
+			"ids": [ "jamband" ],
+			"names": {
+				"en-US": "JAMband"
+			},
+			"icon": "jamband",
+			"type": "game"
+		},
+		{
+			"ids": [ "jambanddlc" ],
+			"names": {
+				"en-US": "JAMband DLC"
+			},
+			"icon": "jambanddlc",
 			"type": "game"
 		},
 		{
@@ -686,7 +710,7 @@
 			"names": {
 				"en-US": "Instru-Metal"
 			},
-			"icon": "generic",
+			"icon": "imetal",
 			"type": "custom"
 		},
 		{
@@ -734,7 +758,7 @@
 			"names": {
 				"en-US": "Marathon Hero 2"
 			},
-			"icon": "generic",
+			"icon": "marathonhero2",
 			"type": "custom"
 		},
 		{
@@ -959,6 +983,14 @@
 				"en-US": "Synergy"
 			},
 			"icon": "generic",
+			"type": "custom"
+		},
+		{
+			"ids": [ "teminite" ],
+			"names": {
+				"en-US": "Teminite"
+			},
+			"icon": "teminite",
 			"type": "custom"
 		},
 		{
@@ -1327,7 +1359,7 @@
 			"type": "game"
 		},
 		{
-			"ids": [ "mickelräven", "mickelraven" ],
+			"ids": [ "mickelraven" ],
 			"names": {
 				"en-US": "Mickelräven"
 			},
@@ -1348,6 +1380,54 @@
 				"en-US": "Burnout 3: Takedown"
 			},
 			"icon": "burnout3",
+			"type": "custom"
+		},
+		{
+			"ids": [ "yoshibyl", "yoshiog" ],
+			"names": {
+				"en-US": "YoShibyl"
+			},
+			"icon": "yoshibyl",
+			"type": "custom"
+		},
+		{
+			"ids": [ "scu", "scufd" ],
+			"names": {
+				"en-US": "Small Charters United"
+			},
+			"icon": "scu",
+			"type": "custom"
+		},
+		{
+			"ids": [ "rv" ],
+			"names": {
+				"en-US": "RhythmVerse"
+			},
+			"icon": "rv",
+			"type": "custom"
+		},
+		{
+			"ids": [ "donnaken15" ],
+			"names": {
+				"en-US": "donnaken15's Customs"
+			},
+			"icon": "dk15",
+			"type": "charter"
+		},
+		{
+			"ids": [ "gze1" ],
+			"names": {
+				"en-US": "Guitar Zero Encore 1: Rocks the '70s"
+			},
+			"icon": "guitarzeroencore1",
+			"type": "custom"
+		},
+		{
+			"ids": [ "encore" ],
+			"names": {
+				"en-US": "Encore"
+			},
+			"icon": "encore",
 			"type": "custom"
 		}
 	]
